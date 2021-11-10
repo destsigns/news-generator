@@ -19,6 +19,8 @@
   "homepage": "https://github.com/destsigns/cloud-workshop-db#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "node": "^15.4.0",
+    "node.js": "^0.0.1-security"
   }
 }
